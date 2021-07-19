@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Application</title>
+    <link href="Weather1.css" rel="stylesheet">
+    <script src="FILE1.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=Enter_Your_Api_key"
+        type="text/javascript"></script>
+</head>
+
+<body onload="initMap()">
+    <div id="d1">
+        <div id="d2">
+            <input type="text" id="zip" class="zipcode" placeholder="Enter Zipcode">
+            <button type="button" id="btn" onclick="fun()">Search</button>
+        </div>
+        <div id="d3">
+            <h2 id="h1">Weather Station Information</h2>
+            <img src="./icons1/unknown.png" id="i1">
+            <p id="temp"></p>
+            <p id="desc"></p>
+            <p id="code"></p>
+            <p id="name"></p>
+            <p id="latitude"></p>
+            <p id="longitude"></p>
+            <p id="distance"></p>
+        </div>
+    </div>
+    <div id="d4">
+
+    </div>
+</body>
+
+</html>

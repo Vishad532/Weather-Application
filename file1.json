@@ -1,0 +1,80 @@
+{
+    "360001": {
+        "lat": "22.2916",
+        "lon": "70.7932"
+    },
+    "360002": {
+        "lat": "23.5355",
+        "lon": "72.574"
+    },
+    "360003": {
+        "lat": "22.4673",
+        "lon": "70.8241"
+    },
+    "360005": {
+        "lat": "22.2727",
+        "lon": "70.7406"
+    },
+    "362520": {
+        "lat": "20.7142",
+        "lon": "70.9606"
+    },
+    "WSData": [
+        {
+            "name": "Sun Weather Station",
+            "code": "01",
+            "WSgeo": [22.2658,70.8073],
+            "temprature": "32",
+            "description": "Clear Sky",
+            "icon": "01d"
+        },
+        {
+            "name": "Moon Weather Station",
+            "code": "02",
+            "WSgeo":[23.0256,72.5769],
+            "temprature": "30",
+            "description": "Few Clouds",
+            "icon": "02d"
+        },
+        {
+            "name": "Water Weather Station",
+            "code": "03",
+            "WSgeo":[23.2180,72.6476],
+            "temprature": "21",
+            "description": "Rain",
+            "icon": "10d"
+        },
+        {
+            "name": "Alice Weather Station",
+            "code": "04",
+            "WSgeo": [23.0137,71.1824],
+            "temprature": "25",
+            "description": "Rain",
+            "icon": "10d"
+        },
+        {
+            "name": "Star Weather Station",
+            "code": "05",
+            "WSgeo": [21.6015,71.2204],
+            "temprature": "35",
+            "description": "Clear Sky",
+            "icon": "01d"
+        },
+        {
+            "name": "River Weather Station",
+            "code": "06",
+            "WSgeo": [22.4707,70.0577],
+            "temprature": "32",
+            "description": "Clear Sky",
+            "icon": "01d"
+        },
+        {
+            "name": "Rock Weather Station",
+            "code": "07",
+            "WSgeo":[21.6417,69.6293],
+            "temprature": "28",
+            "description": "Few Clouds",
+            "icon": "02d"
+        }
+    ]
+}
